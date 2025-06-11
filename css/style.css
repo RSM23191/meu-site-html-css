@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #red;
+  background-color: #dark blue;
   color: #dark blue;
   margin: 0;
   padding: 0;
@@ -8,7 +8,7 @@ body {
 }
 
 header, footer {
-  background-color: #red;
+  background-color: #dark bleu;
   color: dark blue;
   padding: 20px;
 }
