@@ -1,15 +1,15 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: darkblue;
-  color: white;
+  background-color: white;
+  color: #333; /* cinza escuro para melhor legibilidade */
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-header, footer {
-  background-color: darkblue;
-  color: white;
+header {
+  background-color: white;
+  color: #333;
   padding: 20px;
 }
 
@@ -26,18 +26,19 @@ nav ul {
 }
 
 nav a {
-  color: white;
+  color: #333;
   text-decoration: none;
 }
 
 nav a:hover {
-  color: lightblue;
+  color: darkblue;
 }
 
 main {
   max-width: 900px;
   margin: 40px auto;
   padding: 20px;
+  background-color: white;
 }
 
 /* Exemplo de flexbox */
@@ -58,16 +59,18 @@ form {
 
 /* Pseudo-classe */
 button:hover {
-  background-color: lightblue;
-  color: darkblue;
-}
-
-/* Rodapé */
-footer a {
+  background-color: darkblue;
   color: white;
 }
 
 /* Rodapé */
+footer {
+  background-color: darkblue;
+  color: white;
+  padding: 20px;
+}
+
 footer a {
-  color: #dark blue;
+  color: white;
+  text-decoration: underline;
 }
