@@ -8,7 +8,7 @@ body {
 header {
   background-color: #001f3f;
   color: white;
-  padding: 30px 20px; /* Aumentado para deixar mais alto */
+  padding: 30px 20px; /
 }
 
 .topo {
@@ -32,7 +32,7 @@ header {
 .titulo-branco {
   color: white;
   font-family: 'Lobster', cursive;
-  font-size: 28px; /* Um pouco maior para combinar com o cabeçalho */
+  font-size: 28px; 
   margin: 0;
 }
 
